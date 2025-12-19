@@ -33,7 +33,6 @@ void setup() {
 }
 
 void loop() {
-  // Not used with FreeRTOS
 }
 
 void TrafficLightTask(void *pvParameters) {
